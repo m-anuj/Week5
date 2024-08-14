@@ -1,0 +1,9 @@
+2024-08-14T12:19:32.093+05:30  INFO 3248 --- [Logger] [main] com.example.Logger.LoggerApplication     : Starting LoggerApplication using Java 22.0.2 with PID 3248 (C:\Users\anuj.mishra\Downloads\Logger\target\classes started by anuj.mishra in C:\Users\anuj.mishra\Downloads\Logger)
+2024-08-14T12:19:32.098+05:30  INFO 3248 --- [Logger] [main] com.example.Logger.LoggerApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-08-14T12:19:33.997+05:30  INFO 3248 --- [Logger] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-14T12:19:34.019+05:30  INFO 3248 --- [Logger] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-14T12:19:34.022+05:30  INFO 3248 --- [Logger] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-14T12:19:34.137+05:30  INFO 3248 --- [Logger] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-14T12:19:34.137+05:30  INFO 3248 --- [Logger] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1935 ms
+2024-08-14T12:19:34.868+05:30  INFO 3248 --- [Logger] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-14T12:19:34.886+05:30  INFO 3248 --- [Logger] [main] com.example.Logger.LoggerApplication     : Started LoggerApplication in 3.854 seconds (process running for 4.736)
